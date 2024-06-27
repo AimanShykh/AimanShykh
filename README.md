@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aiman Shaikh</h1>
 <h3 align="center">I'm currently doing my undergraduate in software engineering.</h3>
 
+
 - 🔭 I’m currently working on **Data Science related Projects**
 
 - 🌱  I’m interested in **AI Domains**
