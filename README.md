@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Data Science related Projects**
 
+- 🌱  I’m interested in **AI Domains**
+
 - 🌱 I’m currently learning **DataScience and Machine learrning**
 
 - 📫 How to reach me **aimansaleemshaikh@gmail.com**
