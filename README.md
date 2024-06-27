@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aiman Shaikh</h1>
 <h3 align="center">I'm currently doing my undergraduate in software engineering.</h3>
 
-- 🔭 I’m currently working on **EDA**
+- 🔭 I’m currently working on **Data Science related Projects**
 
-- 🌱 I’m currently learning **DataScience**
+- 🌱 I’m currently learning **DataScience and Machine learrning**
 
 - 📫 How to reach me **aimansaleemshaikh@gmail.com**
 
